@@ -63,6 +63,21 @@ i{
     color: white;
     overflow: hidden;
 }
-.main-tab{
+.left-sec{
+    margin-left: 20px;
+    width: 10%;
+}
+.last-sec{
+    margin-right: 10px;
+    margin-left: 30px;
+    width: 10%;
+}
+.mid-sec{
+    width: 80%;
+    display: flex;
     padding: 10px;
+    float: left;
+}
+.dynamic-data{
+    font-size: small;
 }
